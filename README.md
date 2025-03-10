@@ -1,4 +1,4 @@
-## AI functions harness the power of GenAI for summarization, classification, text generation, and so much more—all with a single line of code:
+## AI functions harness the power of GenAI for summarization, classification, text generation, and so much more — all with a single line of code:
 
 ### Thanks to a new set of AI functions for data engineering, Microsoft Fabric users can now harness the power of industry-leading large language models (LLMs) to transform and enrich data seamlessly.
 
