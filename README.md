@@ -1,5 +1,7 @@
 ## AI functions harness the power of GenAI for summarization, classification, text generation, and so much more—all with a single line of code:
 
+### Thanks to a new set of AI functions for data engineering, Microsoft Fabric users can now harness the power of industry-leading large language models (LLMs) to transform and enrich data seamlessly.
+
 - Calculate similarity with *ai.similarity*: Compare the meaning of input text with a single common text value, or with corresponding text values in another column.
 - Categorize text with *ai.classify*: Classify input text values according to labels you choose.
 - Detect sentiment with *ai.analyze_sentiment*: Identify the emotional state expressed by input text.
