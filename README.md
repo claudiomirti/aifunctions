@@ -10,3 +10,5 @@
 - Summarize text with *ai.summarize*: Get summaries of input text.
 - Translate text with *ai.translate*: Translate input text into another language.
 - Answer custom user prompts with *ai.generate_response*: Generate responses based on your own instructions.
+
+![image](https://github.com/user-attachments/assets/dc3b1a1c-85bc-4c84-82ca-716db1c01924)
